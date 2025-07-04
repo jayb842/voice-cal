@@ -1,13 +1,7 @@
-{
-  "name": "voice-calendar-webhook",
-  "version": "1.0.0",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "express": "^4.18.2",
-    "body-parser": "^1.20.2"
-  }
-}
+git init
+git remote add origin https://github.com/your-username/voice-calendar-webhook.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+
 
